@@ -15,4 +15,5 @@
                         （2）适应度函数
                         （3）遗传算子（选择、交叉、变异）
                          (4) 运行参数
-         运行框图：https://wkretype.bdimg.com/retype/zoom/9b320c9fbceb19e8b8f6baf8?pn=26&o=jpg_6&md5sum=a3b57f446979bb74cc2e719cd852fed0&sign=978e19bbf7&png=2503469-2546990&jpg=3332577-3442154
+        
+       运行框图：https://wkretype.bdimg.com/retype/zoom/9b320c9fbceb19e8b8f6baf8?pn=26&o=jpg_6&md5sum=a3b57f446979bb74cc2e719cd852fed0&sign=978e19bbf7&png=2503469-2546990&jpg=3332577-3442154
